@@ -13,6 +13,7 @@ body {
 
 .justBtn:hover {
   background-color: #048888;
+  cursor: pointer;
 }
 
 .modal-box {
